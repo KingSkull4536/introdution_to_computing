@@ -12,13 +12,13 @@ print("The average of given numbers is ", (num1+num2+num3)/3)
 # 2. Program for calculating income tax #
 
 income=float(input("Enter your total income:"))
-members=int(input("Enter your none earning family members:"))
+members=int(input("Enter your non earning family members:"))
 
 taxable_income=float(income-10000-members*3000)
 
 income_tax=taxable_income/5
 
-if income_tax<0:
+if income_tax<=0:
     print("You don't have to pay income tax.")
 
 else:    
