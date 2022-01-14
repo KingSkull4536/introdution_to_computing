@@ -7,7 +7,7 @@ Enter the second number: 10
 Enter the third number: 12
 The average of given numbers is  9.0
 Enter your total income:50000
-Enter your none earning family members:15
+Enter your non earning family members:15
 You don't have to pay income tax.
 Enter your SID-21105072
 Enter your name-Prashant jyoti
