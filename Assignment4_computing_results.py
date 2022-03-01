@@ -28,7 +28,7 @@ Using loops:
 
 Question 3
 Enter the first number: 45
-Enter the first number: 33
+Enter the second number: 33
 Quotient:1
 Remainder:12
 a)
