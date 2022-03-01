@@ -55,7 +55,7 @@ print("")
 # Question 3
 print("Question 3")
 a = int(input("Enter the first number: "))
-b = int(input("Enter the first number: "))
+b = int(input("Enter the second number: "))
 
 
 while b == 0:
